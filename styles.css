@@ -1,0 +1,36 @@
+html{
+   width: 800px;
+   margin: auto;
+   background-color: black;}
+
+
+
+body {
+   background-color:lightcoral;
+   border: double 5px;
+   padding: 10px;
+   font-family:verdana}
+h1{
+  color: yellow;
+  border-bottom: solid 2px;
+  text-align: center;}
+p{
+ color: lightblue;}
+
+p.caption{
+   font-size: 3px;
+   font-variant:small-caps;}
+
+img{
+  border-radius: 8px;
+  border: solid 3px white;
+  padding 5px;
+  /* float:right; */
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:50%;
+}
